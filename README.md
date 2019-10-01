@@ -8,6 +8,7 @@ This repo summarizes the features and mathematical foundations for the most wide
 5. KNN
 6. SVM
 7. EM
+8. Ensemble Models
 ##### Deep Learning Architecture: 
 1. Neural Network
 2. CNN
