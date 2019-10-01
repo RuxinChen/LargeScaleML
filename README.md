@@ -1,6 +1,6 @@
 # LargeScaleML
-Machine Learning and Large Scale Data Analysis
-### This repo summarizes the features and mathematical foundations for the most widely used machine learning algorithms, including 
+##### Machine Learning and Large Scale Data Analysis
+This repo summarizes the features and mathematical foundations for the most widely used machine learning algorithms, including 
 1. Logistic Regression
 2. PCA
 3. Naive Bayes
@@ -8,7 +8,7 @@ Machine Learning and Large Scale Data Analysis
 5. KNN
 6. SVM
 7. EM
-### Deep Learning Architecture: 
+##### Deep Learning Architecture: 
 1. Neural Network
 2. CNN
 3. RNN
