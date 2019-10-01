@@ -1,6 +1,6 @@
 # LargeScaleML
 #### Machine Learning and Large Scale Data Analysis
-This repo summarizes the features and mathematical foundations for the most widely used **Machine Learning Algorithms**:
+This repo summarizes the features and mathematical foundations for **Machine Learning Algorithms**:
 1. Logistic Regression
 2. PCA and Singular Value Decomposition 
 3. Naive Bayes
